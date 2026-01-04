@@ -10,50 +10,50 @@ export const siteConfig = {
     github: "https://github.com/TeddyTjoe1990",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I am a Solution-Oriented Software Developer, passionate about creating applications that are not only functional but also deliver real impact and a seamless user experience. My coding philosophy places a strong emphasis on clean, structured, and maintainable code, ensuring the features I develop are efficient and scalable for the future. My greatest joy is breaking down complex problems and transforming them into simple and elegant solutions; I am adept at balancing powerful back-end functionality with intuitive front-end design, supported by solid experience in HTML, CSS, JavaScript/TypeScript, React/Vue, .Net, Node.js, and Python. As a keen learner, I actively follow industry best practices and the latest technology developments. I am currently interested in exploring mobile development with Flutter/React Native, and am always open to collaborating on any challenging and innovative projects.",
+  skills: ["Javascript", "React", "Node.js", "Python", "SQL", ".Net", "C++", "C#"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "102 Rent-Car Website",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A project requested by consumers, so that consumers know the 102 Rent Car business as a professional car rental solution that offers a variety of quality fleet options with the best service, competitive prices, and an easy booking process for consumer travel needs.",
+      link: "https://teddytjoe1990.github.io/102-Rent-Car/",
+      skills: ["HTML", "CSS"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Simple POS",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A point-of-sale web app built with ASP.NET Core and Blazor. Includes authentication, cart system, and admin dashboard.",
+      link: "https://github.com/TeddyTjoe1990/SimplePos",
+      skills: ["C#", ".Net-Blazor Server", "SQL Server"],
     },
     {
-      name: "ExtensionKit",
+      name: "Health Tracker App",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A Flutter-based Mobile App that tracks daily water intake, calories, and workout sessions.",
+      link: "https://github.com/TeddyTjoe1990/HealthTracker",
+      skills: ["Flutter", "Dart", "Firebase"],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Tujuh Bintangmas Perkasa, Ltd",
+      title: "Surveyor",
+      dateRange: "Oct 2023 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Deloz.co",
+      title: "Full Stack Developer (Internship)",
+      dateRange: "Jun 2023 - Sept 2023",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
       ],
     },
     {
@@ -69,13 +69,11 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Brigham-Young University - Idaho",
+      degree: "Bachelor of Science in Software Development",
+      dateRange: "2021 - 2025",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Graduated with 3.6 GPA"
       ],
     },
     {
