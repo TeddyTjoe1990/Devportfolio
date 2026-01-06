@@ -38,7 +38,7 @@ export const siteConfig = {
   experience: [
     {
       company: "Tujuh Bintangmas Perkasa, Ltd",
-      title: "Surveyor",
+      title: "Field Surveyor",
       dateRange: "Oct 2023 - Present",
       bullets: [
         "XXXXX",
