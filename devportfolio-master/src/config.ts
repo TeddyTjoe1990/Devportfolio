@@ -41,9 +41,10 @@ export const siteConfig = {
       title: "Field Surveyor",
       dateRange: "Oct 2023 - Present",
       bullets: [
-        "XXXXX",
-        "XXXXX",
-        "XXXXX",
+        "Successfully identified unreported damage or found information asymmetry between field conditions and claim documents.",
+        "Achieve company SLA targets (usually no more than 3 days)",
+        "Helping insurance companies avoid financial losses due to excessive/fraudulent claims",
+        "Successfully finding physical evidence or chronological inconsistencies that indicate intent in the loss"
       ],
     },
     {
@@ -51,9 +52,10 @@ export const siteConfig = {
       title: "Full Stack Developer (Internship)",
       dateRange: "Jun 2023 - Sept 2023",
       bullets: [
-        "XXXXX",
-        "XXXXX",
-        "XXXXX",
+        "Converting designs (Figma/Adobe XD) into responsive interfaces using React/Vue, while building RESTful API endpoints on the backend (Node.js/Django) to manage data",
+        "Optimizing SQL queries or implementing lazy loading techniques can reduce page load time by 20-30%.",
+        "Submitted more than 20+ approved pull requests during the internship and actively provided constructive suggestions in code review sessions.",
+        "Successfully identified and fixed critical bugs affecting the core functionality of the application, as well as compiled technical documentation (such as API documentation via Swagger) to facilitate other developers."
       ],
     },
     {
@@ -61,9 +63,9 @@ export const siteConfig = {
       title: "Finance Staff",
       dateRange: "Jan 2020 - Oct 2023",
       bullets: [
-        "XXXXX",
-        "XXXXX",
-        "XXXXX",
+        "Successfully performed daily reconciliation between drug sales reports (Pharmacy) and medical services (Clinic) with 100% accuracy.",
+        "Implementing a digital financial reporting system that integrates drug inventory in the Pharmacy with expenditure in the Clinic.",
+        "Successfully identified and reduced unnecessary operational costs by 30% through regular audits and strict monitoring of the drug stock cycle (preventing losses due to expired drugs/ED)"
       ],
     },
   ],
