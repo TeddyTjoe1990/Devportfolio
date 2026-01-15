@@ -1,8 +1,8 @@
 export const siteConfig = {
   name: "Teddy Tjoe",
-  title: "Software Engineer",
+  title: "Software Developer",
   description: "Portfolio website of Teddy Tjoe",
-  accentColor: "#71d81dff",
+  accentColor: "rgb(57, 29, 216)",
   social: {
     email: "Jethe90@gmail.com",
     linkedin: "https://linkedin.com/in/teddy90",
